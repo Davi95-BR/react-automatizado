@@ -1,7 +1,7 @@
-### Primeiros passos para abstrair o css e mapear e injetar apenas o necessário.
+## Primeiros passos para abstrair o css e mapear e injetar apenas o necessário.
 Este projeto carrega a aplicação com apenas o necessário e a manutenção mais fácil de se realizar e a melhora na experiência para o usuário.
 
-## Scripts Disponíveis
+### Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
 Caso não tenha baixado o react:
