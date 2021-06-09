@@ -1,30 +1,30 @@
-Primeiros passos para abstrair o css e mapear e injetar apenas o necessário.
+### Primeiros passos para abstrair o css e mapear e injetar apenas o necessário.
 Este projeto carrega a aplicação com apenas o necessário e a manutenção mais fácil de se realizar e a melhora na experiência para o usuário.
 
-Scripts Disponíveis
+## Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
 Caso não tenha baixado o react:
-npm install
+### npm install
 Caso não tenha baixado o styled components:
-npm install --save styled-components
+### npm install --save styled-components
 Para aplicar nos componentes
 
-Iniciando o localhost
-npm start
+## Iniciando o localhost
+### npm start
 Executa o aplicativo no modo de desenvolvimento. Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
 
 A página será recarregada se você fizer edições. Você também verá quaisquer erros de lint no console.
 
-npm test
+### npm test
 Inicia o executor de teste no modo de observação interativo.
 
-npm run build
+### npm run build
 Compila o aplicativo para produção na pasta build. Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
 
 A compilação é reduzida e os nomes dos arquivos incluem os hashes. Seu aplicativo está pronto para ser implantado!
 
-npm run eject
+### npm run eject
 ** Nota: esta é uma operação unilateral. Depois de ejetar, você não pode voltar! **
 
 Se não estiver satisfeito com a ferramenta de construção e as opções de configuração, você pode ejetar a qualquer momento. Este comando removerá a dependência de compilação única de seu projeto.
