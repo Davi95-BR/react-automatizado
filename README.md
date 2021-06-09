@@ -1,4 +1,4 @@
-## Primeiros passos para abstrair o css e mapear e injetar apenas o necessário.
+## Primeiros passos para automatizar os testes em aplicações.
 Este projeto carrega a aplicação com apenas o necessário e a manutenção mais fácil de se realizar e a melhora na experiência para o usuário.
 
 ### Scripts Disponíveis
